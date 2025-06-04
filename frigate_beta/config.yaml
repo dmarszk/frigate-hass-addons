@@ -63,8 +63,6 @@ usb: true
 video: true
 tmpfs: true
 full_access: false
-privileged:
-  - PERFMON
 schema:
   plus_api_key: password?
 services:
